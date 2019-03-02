@@ -60,10 +60,9 @@ footer {
 /* About page */
 
 #about-image {
-    float: left;
     margin: 5px 20px 0 0;
     width: auto;
-    max-height: 160px;
+    max-height: 300px;
 }
 
 /* Portfolio page */
