@@ -1,5 +1,5 @@
 # Bootstrap-Portfolio
-HW2.1
+**Visit the deployed site here: https://echao2012.github.io/Bootstrap-Portfolio/**
 
 This example portfolio website was created with Bootstrap.
 
